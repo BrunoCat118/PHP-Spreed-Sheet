@@ -1222,16 +1222,16 @@
         },
         {
             "name": "mitoteam/jpgraph",
-            "version": "10.4.4",
+            "version": "10.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mitoteam/jpgraph.git",
-                "reference": "9ad8e2fcc30f765c788a28543e9705fb541d499f"
+                "reference": "8bb38880ef4c2e0cc0daa59c2bb722979d1b1bf0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mitoteam/jpgraph/zipball/9ad8e2fcc30f765c788a28543e9705fb541d499f",
-                "reference": "9ad8e2fcc30f765c788a28543e9705fb541d499f",
+                "url": "https://api.github.com/repos/mitoteam/jpgraph/zipball/8bb38880ef4c2e0cc0daa59c2bb722979d1b1bf0",
+                "reference": "8bb38880ef4c2e0cc0daa59c2bb722979d1b1bf0",
                 "shasum": ""
             },
             "require": {
@@ -1264,16 +1264,16 @@
                     "role": "Composer package maintenance, PHP-compatibility patches"
                 }
             ],
-            "description": "JpGraph library composer package with PHP 8.4 support",
+            "description": "JpGraph library composer package with PHP 8.5 support",
             "homepage": "https://github.com/mitoteam/jpgraph",
             "keywords": [
                 "jpgraph"
             ],
             "support": {
                 "issues": "https://github.com/mitoteam/jpgraph/issues",
-                "source": "https://github.com/mitoteam/jpgraph/tree/10.4.4"
+                "source": "https://github.com/mitoteam/jpgraph/tree/10.5.2"
             },
-            "time": "2025-01-01T05:39:20+00:00"
+            "time": "2025-12-08T10:10:34+00:00"
         },
         {
             "name": "mpdf/mpdf",
@@ -5615,7 +5615,7 @@
         "ext-zip": "*",
         "ext-zlib": "*"
     },
-    "platform-dev": [],
+    "platform-dev": {},
     "platform-overrides": {
         "php": "8.1.99"
     },
