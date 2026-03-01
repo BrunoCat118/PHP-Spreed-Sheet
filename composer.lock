@@ -5472,16 +5472,16 @@
         },
         {
             "name": "tecnickcom/tcpdf",
-            "version": "6.10.0",
+            "version": "6.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tecnickcom/TCPDF.git",
-                "reference": "ca5b6de294512145db96bcbc94e61696599c391d"
+                "reference": "81172e58edb1cfae4019ef150ccbdc0e9a8c85c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/ca5b6de294512145db96bcbc94e61696599c391d",
-                "reference": "ca5b6de294512145db96bcbc94e61696599c391d",
+                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/81172e58edb1cfae4019ef150ccbdc0e9a8c85c9",
+                "reference": "81172e58edb1cfae4019ef150ccbdc0e9a8c85c9",
                 "shasum": ""
             },
             "require": {
@@ -5531,7 +5531,7 @@
             ],
             "support": {
                 "issues": "https://github.com/tecnickcom/TCPDF/issues",
-                "source": "https://github.com/tecnickcom/TCPDF/tree/6.10.0"
+                "source": "https://github.com/tecnickcom/TCPDF/tree/6.11.0"
             },
             "funding": [
                 {
@@ -5539,7 +5539,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-05-27T18:02:28+00:00"
+            "time": "2026-03-01T09:35:25+00:00"
         },
         {
             "name": "theseer/tokenizer",
@@ -5615,7 +5615,7 @@
         "ext-zip": "*",
         "ext-zlib": "*"
     },
-    "platform-dev": [],
+    "platform-dev": {},
     "platform-overrides": {
         "php": "8.1.99"
     },
